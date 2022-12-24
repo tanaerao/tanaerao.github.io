@@ -6,7 +6,7 @@ description: selected research and writing.
 nav: true
 nav_order: 1
 ---
-## [Post-Decision Surprise in Charity Evaluation](tanaerao.github.io/assets/pdf/post-decision-surprise-in-charity-evaluation)
+## [Post-Decision Surprise in Charity Evaluation](/assets/pdf/post-decision-surprise-in-charity-evaluation)
 ### Tanae Rao
 ### Draft, 24th December 2022
 
