@@ -9,12 +9,16 @@ nav_order: 1
 
 If you share my interest in any of the ideas below, and want to chat, please email me (raotanae@gmail.com)!
 
+***
+
 <h3> Post-Decision Surprise in Charity Evaluation </h3>
 <h4> Draft; December 2022 </h4>
 
 I explain why [post-decision surprise](https://www.jstor.org/stable/20110511) is a problem for charity evaluators like [GiveWell](https://www.givewell.org/). I then demonstrate Bayesian updates that correct this problem, and discuss the limitations of this approach.
 
 [View PDF](https://tanaerao.github.io/pdfs/post-decision-surprise-in-charity-evaluation.pdf)
+
+***
 
 <h3> GiveWell Change Our Mind Contest Submissions </h3>
 <h4> August - November 2022 </h4>
@@ -28,12 +32,16 @@ The second submission, co-authored with Ricky Huang, argued that GiveWell's curr
 [Uncertainty Quantification](https://observablehq.com/@hazelfire/quantifying-uncertainty-in-givewell-ceas)
 [Moral Weights](https://forum.effectivealtruism.org/posts/dHZZirCrKgyhb3NEZ/hard-problems-in-givewell-s-moral-weights-approach)
 
+***
+
 <h3> Scoring in British Parliamentary Debating </h3>
 <h4> 2021-ongoing </h4>
 
 The way that international university debating tournaments are currently scored has some surprising implications on accuracy and fairness. As an active university debater, I'm interested in using both theoretical models and data from previous tournaments to better understand these scoring systems. Like [most](http://obsessionwithregression.blogspot.com/2016/08/how-much-does-losing-first-round-of.html) [people](https://github.com/karthiktadepalli1/tapered-scoring) [who](https://international-debate.com/2020/03/18/tapered-points/) [have](http://trolleyproblem.blogspot.com/2012/06/better-fairness-test.html) been curious about these issues over the past few years, I only work on this occasionally.
 
 [Frequency of Bench Calls in British Parliamentary Debating (GitHub repo)](https://github.com/tanaerao/bench-calls)
+
+***
 
 <h3> Medium Blog </h3>
 <h4> 2019-2021 </h4>
@@ -43,7 +51,5 @@ I was active on Medium from 2019-2021, during which time I published 33 articles
 As of December 2022, my writing on Medium has received 2000 hours of active reading time, and 37000 views.
 
 [Link](https://tanaerao.medium.com/)
-
-
 
 
